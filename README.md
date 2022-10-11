@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @srikarthadaka
-- 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning python, r
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on data related projects
-- 📫 How to reach me srikarthadaka@outlook.com
+- 📫 How to reach me srikar.thadaka@gmail.com
 
 <!---
 srikarthadaka/srikarthadaka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
