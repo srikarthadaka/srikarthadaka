@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @srikarthadaka
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on data related projects
+- 🌱 I’m currently working in Machine Learning
+- 💞️ I’m looking to collaborate on data science related projects
 - 📫 How to reach me srikar.thadaka@gmail.com
 
 <!---
